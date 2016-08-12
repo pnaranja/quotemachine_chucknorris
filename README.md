@@ -1,1 +1,3 @@
 # quotemachine_chucknorris
+
+This is based on the [elm tutorial from auth0.com](https://auth0.com/blog/creating-your-first-elm-app-part-1/)
